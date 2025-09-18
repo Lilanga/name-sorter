@@ -1,0 +1,7 @@
+// for .net projects
+bin/
+obj/
+.vs/
+*.pdb
+publish/
+TestResults/
